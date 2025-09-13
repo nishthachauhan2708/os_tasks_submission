@@ -1,0 +1,10 @@
+^T^Z
+If you have fork_task2.py … fork_task5.py:
+
+1. Create Task2 … Task5 folders inside `os_tasks_submission`:
+
+```bash
+mkdir ~/Desktop/os_tasks_submission/Task2
+mkdir ~/Desktop/os_tasks_submission/Task3
+mkdir ~/Desktop/os_tasks_submission/Task4
+mkdir ~/Desktop/os_tasks_submission/Task
